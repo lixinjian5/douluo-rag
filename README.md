@@ -2,6 +2,10 @@
 
 基于 **RAG (Retrieval-Augmented Generation)** 架构的《斗罗大陆》小说问答系统。将 290 万字小说构建为向量知识库，通过**检索增强生成**实现基于原文的精准情节问答。
 
+## 界面预览
+
+![Streamlit 问答界面](screenshot.png)
+
 ## RAG 架构
 
 ```
